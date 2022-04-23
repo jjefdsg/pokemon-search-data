@@ -1,0 +1,36 @@
+.top, .pokemonBox{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+}
+header,h1,p{
+    display: flex;
+    justify-content: center;
+    color: rgb(245, 34, 66);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+    
+}
+
+p{
+    font-size: 1rem;
+    font-family: 'Inconsolata', monospace;;
+}
+
+img{
+    height: 250px;
+ width: 250px;
+}
+.head{
+    flex-direction: column;
+}
+.head{
+    font-family: 'Inconsolata', monospace;
+    font-size: 1rem;
+
+}
+h1{
+    font-size: 2rem;
+}
